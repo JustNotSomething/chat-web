@@ -1,0 +1,73 @@
+2023-12-26 11:09:03 INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2023-12-26 11:09:03 INFO  o.d.c.r.UsersRepositoryTests - Starting UsersRepositoryTests using Java 20.0.1 with PID 18736 (started by mlejk in D:\Projects\SpringProjects\chat-web\chat-web)
+2023-12-26 11:09:03 INFO  o.d.c.r.UsersRepositoryTests - No active profile set, falling back to 1 default profile: "default"
+2023-12-26 11:09:04 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-26 11:09:04 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-26 11:09:04 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 87 ms. Found 4 JPA repository interfaces.
+2023-12-26 11:09:04 INFO  o.s.b.t.a.j.TestDatabaseAutoConfiguration$EmbeddedDataSourceBeanFactoryPostProcessor - Replacing 'dataSource' DataSource bean with embedded version
+2023-12-26 11:09:04 INFO  o.s.j.d.e.EmbeddedDatabaseFactory - Starting embedded database: url='jdbc:h2:mem:4dd0b669-ac89-43f7-9be3-9e8694572940;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2023-12-26 11:09:04 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-26 11:09:04 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.3.1.Final
+2023-12-26 11:09:04 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2023-12-26 11:09:05 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2023-12-26 11:09:05 WARN  org.hibernate.dialect.Dialect - HHH000511: The 2.2.0 version for [org.hibernate.dialect.PostgreSQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 11.0.0. Check the community dialects project for available legacy versions.
+2023-12-26 11:09:05 WARN  org.hibernate.orm.deprecation - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2023-12-26 11:09:06 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2023-12-26 11:09:06 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-26 11:09:06 INFO  o.s.d.j.r.query.QueryEnhancerFactory - JSqlParser is in classpath; If applicable, JSqlParser will be used
+2023-12-26 11:09:06 INFO  o.s.d.j.r.query.QueryEnhancerFactory - Hibernate is in classpath; If applicable, HQL parser will be used.
+2023-12-26 11:09:07 INFO  o.d.c.r.UsersRepositoryTests - Started UsersRepositoryTests in 4.527 seconds (process running for 6.279)
+2023-12-26 11:09:08 INFO  o.d.c.services.UsersServiceTests - Starting UsersServiceTests using Java 20.0.1 with PID 18736 (started by mlejk in D:\Projects\SpringProjects\chat-web\chat-web)
+2023-12-26 11:09:08 INFO  o.d.c.services.UsersServiceTests - No active profile set, falling back to 1 default profile: "default"
+2023-12-26 11:09:08 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-26 11:09:08 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-26 11:09:08 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19 ms. Found 4 JPA repository interfaces.
+2023-12-26 11:09:08 INFO  o.s.b.t.a.j.TestDatabaseAutoConfiguration$EmbeddedDataSourceBeanFactoryPostProcessor - Replacing 'dataSource' DataSource bean with embedded version
+2023-12-26 11:09:08 INFO  o.s.j.d.e.EmbeddedDatabaseFactory - Starting embedded database: url='jdbc:h2:mem:d2e4ba72-af63-45d0-a841-7f6abd9552c8;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2023-12-26 11:09:09 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-26 11:09:09 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2023-12-26 11:09:09 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2023-12-26 11:09:09 WARN  org.hibernate.dialect.Dialect - HHH000511: The 2.2.0 version for [org.hibernate.dialect.PostgreSQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 11.0.0. Check the community dialects project for available legacy versions.
+2023-12-26 11:09:09 WARN  org.hibernate.orm.deprecation - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2023-12-26 11:09:09 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2023-12-26 11:09:09 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-26 11:09:09 INFO  o.d.c.services.UsersServiceTests - Started UsersServiceTests in 0.635 seconds (process running for 8.119)
+2023-12-26 11:09:09 INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [org.demo.chatweb.ChatWebApplicationTests]: ChatWebApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-12-26 11:09:09 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration org.demo.chatweb.ChatWebApplication for test class org.demo.chatweb.ChatWebApplicationTests
+2023-12-26 11:09:09 INFO  o.d.chatweb.ChatWebApplicationTests - Starting ChatWebApplicationTests using Java 20.0.1 with PID 18736 (started by mlejk in D:\Projects\SpringProjects\chat-web\chat-web)
+2023-12-26 11:09:09 INFO  o.d.chatweb.ChatWebApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2023-12-26 11:09:10 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-26 11:09:10 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2023-12-26 11:09:10 INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data JDBC - Could not safely identify store assignment for repository candidate interface org.demo.chatweb.repository.ChatsRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2023-12-26 11:09:10 INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data JDBC - Could not safely identify store assignment for repository candidate interface org.demo.chatweb.repository.MessagesRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2023-12-26 11:09:10 INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data JDBC - Could not safely identify store assignment for repository candidate interface org.demo.chatweb.repository.SectionsRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2023-12-26 11:09:10 INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data JDBC - Could not safely identify store assignment for repository candidate interface org.demo.chatweb.repository.UsersRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2023-12-26 11:09:10 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 JDBC repository interfaces.
+2023-12-26 11:09:10 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-26 11:09:10 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-26 11:09:10 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 10 ms. Found 4 JPA repository interfaces.
+2023-12-26 11:09:10 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-12-26 11:09:11 INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@4f1a6259
+2023-12-26 11:09:11 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-12-26 11:09:11 INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-26 11:09:11 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2023-12-26 11:09:11 INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2023-12-26 11:09:11 WARN  org.hibernate.orm.deprecation - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2023-12-26 11:09:11 INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2023-12-26 11:09:11 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-26 11:09:12 WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-26 11:09:13 INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@51336aad, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@166323b9, org.springframework.security.web.context.SecurityContextHolderFilter@475f30ee, org.springframework.security.web.header.HeaderWriterFilter@4ebe0e3f, org.springframework.web.filter.CorsFilter@5ac1ba35, org.springframework.security.web.authentication.logout.LogoutFilter@2690d8ad, org.demo.chatweb.config.JWTFilter@548c7eab, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3d5662ac, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3dfe5b80, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@7e4061bb, org.springframework.security.web.session.SessionManagementFilter@95a02c0, org.springframework.security.web.access.ExceptionTranslationFilter@19121e33, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7a80d694]
+2023-12-26 11:09:13 WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+2023-12-26 11:09:13 INFO  o.s.m.s.b.SimpleBrokerMessageHandler - Starting...
+2023-12-26 11:09:13 INFO  o.s.m.s.b.SimpleBrokerMessageHandler - BrokerAvailabilityEvent[available=true, SimpleBrokerMessageHandler [org.springframework.messaging.simp.broker.DefaultSubscriptionRegistry@1b75f094]]
+2023-12-26 11:09:13 INFO  o.s.m.s.b.SimpleBrokerMessageHandler - Started.
+2023-12-26 11:09:13 INFO  o.d.chatweb.ChatWebApplicationTests - Started ChatWebApplicationTests in 4.182 seconds (process running for 12.609)
+2023-12-26 11:09:14 INFO  o.d.c.controllers.ChatController - Message: Hello! | sender -> receiver
+2023-12-26 11:09:14 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-26 11:09:14 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-26 11:09:14 INFO  o.s.m.s.b.SimpleBrokerMessageHandler - Stopping...
+2023-12-26 11:09:14 INFO  o.s.m.s.b.SimpleBrokerMessageHandler - BrokerAvailabilityEvent[available=false, SimpleBrokerMessageHandler [org.springframework.messaging.simp.broker.DefaultSubscriptionRegistry@1b75f094]]
+2023-12-26 11:09:14 INFO  o.s.m.s.b.SimpleBrokerMessageHandler - Stopped.
+2023-12-26 11:09:14 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-26 11:09:14 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-12-26 11:09:14 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
