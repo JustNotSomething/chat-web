@@ -1,1 +1,1 @@
-Backend part
+# Backend part for chat application
